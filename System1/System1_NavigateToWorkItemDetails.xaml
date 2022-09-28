@@ -6,7 +6,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1826,962</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1138,962</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>System1_NavigateToWorkItemDetails_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -104,7 +104,7 @@
     </ui:BrowserScope>
     <ui:UiElementExists Exists="{x:Null}" DisplayName="Element  'Work Items' Label Exists" sap:VirtualizedContainerService.HintSize="434,106" sap2010:WorkflowViewState.IdRef="UiElementExists_1">
       <ui:UiElementExists.Target>
-        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="7ad23d34-065e-4b21-a39e-0f82fdd9fdd7" InformativeScreenshot="c4b023beb4fecc810a944ce9a356fbc7" Selector="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;&lt;webctrl tag='H1' innertext='                                                                                                                                                                                     Work Items                                                                                                                                         -                                                 Work Item Details                                                         ' /&gt;">
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="7ad23d34-065e-4b21-a39e-0f82fdd9fdd7" InformativeScreenshot="c4b023beb4fecc810a944ce9a356fbc7" Selector="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;&lt;webctrl tag='H1' innertext='*Work Items*Work Item Details*' /&gt;">
           <ui:Target.TimeoutMS>
             <InArgument x:TypeArguments="x:Int32" />
           </ui:Target.TimeoutMS>
